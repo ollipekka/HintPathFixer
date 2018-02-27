@@ -1,0 +1,6 @@
+bin
+debug
+obj
+.vs
+Properties
+*.fsproj.user
